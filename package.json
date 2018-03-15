@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "angular-2": "1.0.0",
+    "bootstrap-3-stylus-webpack": "*",
+    "videogular": "2.2.1"
+  }
+}
